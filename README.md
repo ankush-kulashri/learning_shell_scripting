@@ -1,3 +1,5 @@
-# learning_shell_scripting
+# Learning Shell Scripting
 
-#welcome
+#Bash Commands
+
+1. Hello World - 1.hello_world.sh
